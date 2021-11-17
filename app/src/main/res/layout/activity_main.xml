@@ -20,14 +20,14 @@
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:background="#FFEB3B"/>
+        android:background="#9C27B0"/>
 
     <TextView
         android:text="Anak 3"
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:background="#00BCD4"/>
+        android:background="#FF9800"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
